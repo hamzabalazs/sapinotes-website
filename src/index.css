@@ -1,0 +1,60 @@
+.bodydiv {
+  background-color: white;
+  height: 100vh;
+  width: 100vw;
+  border: 30px solid green;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.bodydiv-with-nav {
+  background-color: white;
+  min-height: 100vh;
+  width: 100vw;
+  border-left: 30px solid green;
+  border-right: 30px solid green;
+  border-bottom: 30px solid green;
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.navbar-css a {
+  padding-left: 30px;
+}
+
+.color-nav {
+  background-color: green;
+}
+
+.notelistdiv {
+  overflow-x: auto;
+  flex-wrap: nowrap;
+}
+
+.listElement {
+  border: 3px solid gray;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+#download {
+  margin-bottom: 10px;
+}
+
+#ratingDropdown {
+  margin-bottom: 90px;
+}
+
+#rate {
+  margin-bottom: 10px;
+}
+
+.listbutton {
+  margin-left: 10px;
+  background-color: green;
+  color: white;
+}
